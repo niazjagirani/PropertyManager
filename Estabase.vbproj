@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9D2D68DE-11DF-434C-8F0F-FA0D0914E485}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Merec.My.MyApplication</StartupObject>
+    <RootNamespace>Merec</RootNamespace>
+    <AssemblyName>Estabase Property Manager</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>AD01B01A546D25AD99D01291F9D3348BDFCE4621</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Estabase_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>false</SignManifests>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>Merec_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>4</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>true</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>en-US</TargetCulture>
+    <ProductName>Property Manager</ProductName>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <WebPage>Default.htm</WebPage>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Estabase Property Manager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Estabase Property Manager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.Office" />
+    <Import Include="Microsoft.Office.Core" />
+    <Import Include="Microsoft.Office.Interop.Excel" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.ApplicationServices" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Odbc" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministratorPage.Designer.vb">
+      <DependentUpon>AdministratorPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdministratorPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DesktopWork.cls" />
+    <Compile Include="ExtraFuntions.cls" />
+    <Compile Include="MerecDataSet.vb">
+      <DependentUpon>MerecDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MessageShow.Designer.vb">
+      <DependentUpon>MessageShow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MessageShow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project.Designer.vb">
+      <DependentUpon>Project.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Project.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublicVariables.vb" />
+    <Compile Include="Settings.vb" />
+    <Compile Include="WebMapRent.Designer.vb">
+      <DependentUpon>WebMapRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WebMapRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebMapOther.Designer.vb">
+      <DependentUpon>WebMapOther.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WebMapOther.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebMapLand.Designer.vb">
+      <DependentUpon>WebMapLand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WebMapLand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorDisp.Designer.vb">
+      <DependentUpon>ErrorDisp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorDisp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Func.cls" />
+    <Compile Include="LoginMerec.Designer.vb">
+      <DependentUpon>LoginMerec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginMerec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MerecDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MerecDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OverWriteMessage.Designer.vb">
+      <DependentUpon>OverWriteMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OverWriteMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressData.Designer.vb">
+      <DependentUpon>ProgressData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProgressData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertyReminder.Designer.vb">
+      <DependentUpon>PropertyReminder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PropertyReminder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup.Designer.vb">
+      <DependentUpon>Setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebMap.Designer.vb">
+      <DependentUpon>WebMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WebMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdministratorPage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AdministratorPage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttachFile.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AttachFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LandDisplay.resx">
+      <DependentUpon>LandDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LandToSell.resx">
+      <DependentUpon>LandToSell.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OthersToSell.resx">
+      <DependentUpon>OthersToSell.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageShow.resx">
+      <DependentUpon>MessageShow.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Project.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentDisplay.resx">
+      <DependentUpon>RentDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Team.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Team.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnitsDisplay.resx">
+      <DependentUpon>UnitsDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnitsToRent.resx">
+      <DependentUpon>UnitsToRent.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnitsToSell.resx">
+      <DependentUpon>UnitsToSell.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebMapRent.resx">
+      <DependentUpon>WebMapRent.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebMapOther.resx">
+      <DependentUpon>WebMapOther.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebMapLand.resx">
+      <DependentUpon>WebMapLand.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorDisp.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ErrorDisp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginMerec.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginMerec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OverWriteMessage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OverWriteMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressData.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ProgressData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertyReminder.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PropertyReminder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Setup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebMap.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>WebMap.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="MerecDataSet.xsc">
+      <DependentUpon>MerecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MerecDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MerecDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="MerecDataSet.xss">
+      <DependentUpon>MerecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Merec_TemporaryKey.pfx" />
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="Resources\MEREC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+    <None Include="Estabase_TemporaryKey.pfx" />
+    <None Include="Resources\about us_standard.png" />
+    <None Include="Resources\about us_rollover.png" />
+    <None Include="Resources\about us_click.png" />
+    <None Include="Resources\background1_with-logo.png" />
+    <None Include="Resources\view network properties_standard.png" />
+    <None Include="Resources\users_standard.png" />
+    <None Include="Resources\units for sale_standard.png" />
+    <None Include="Resources\setup_standard.png" />
+    <None Include="Resources\property for rent_standard.png" />
+    <None Include="Resources\project anagement_standard.png" />
+    <None Include="Resources\other for sale_standard.png" />
+    <None Include="Resources\manage my properties_standard.png" />
+    <None Include="Resources\login_standard.png" />
+    <None Include="Resources\lands for sale_standard.png" />
+    <None Include="Resources\help_standard.png" />
+    <None Include="Resources\edit delete project_standard.png" />
+    <None Include="Resources\Add new project_standard.png" />
+    <None Include="Resources\view network properies_rollover.png" />
+    <None Include="Resources\users_rollover.png" />
+    <None Include="Resources\units for sale_rollover.png" />
+    <None Include="Resources\setup_rollover.png" />
+    <None Include="Resources\property for rent_rollover.png" />
+    <None Include="Resources\project management_rollover.png" />
+    <None Include="Resources\other for sale_rollover.png" />
+    <None Include="Resources\manage my properties_rollover.png" />
+    <None Include="Resources\login_rollover.png" />
+    <None Include="Resources\lands for sale_rollover.png" />
+    <None Include="Resources\help_rollover.png" />
+    <None Include="Resources\edit delete project_rollover.png" />
+    <None Include="Resources\add new project_rollover.png" />
+    <None Include="Resources\users_click.png" />
+    <None Include="Resources\units for sale_click.png" />
+    <None Include="Resources\setup_click.png" />
+    <None Include="Resources\property for rent_click.png" />
+    <None Include="Resources\project management_click.png" />
+    <None Include="Resources\other for sale_click.png" />
+    <None Include="Resources\manage my properties_click.png" />
+    <None Include="Resources\login_click.png" />
+    <None Include="Resources\lands for sale_click.png" />
+    <None Include="Resources\help_click.png" />
+    <None Include="Resources\edit delete project_click.png" />
+    <None Include="Resources\add new project_click.png" />
+    <None Include="Resources\view network properies_click.png" />
+    <None Include="Resources\background1.png" />
+    <Compile Include="AttachFile.Designer.vb">
+      <DependentUpon>AttachFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AttachFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LandDisplay.Designer.vb">
+      <DependentUpon>LandDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LandDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LandToSell.Designer.vb">
+      <DependentUpon>LandToSell.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LandToSell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OthersToSell.Designer.vb">
+      <DependentUpon>OthersToSell.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OthersToSell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentDisplay.Designer.vb">
+      <DependentUpon>RentDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RentDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Team.Designer.vb">
+      <DependentUpon>Team.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Team.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnitsDisplay.Designer.vb">
+      <DependentUpon>UnitsDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UnitsDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnitsToRent.Designer.vb">
+      <DependentUpon>UnitsToRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UnitsToRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnitsToSell.Designer.vb">
+      <DependentUpon>UnitsToSell.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UnitsToSell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <None Include="Resources\rendering_max_3.0001.jpg" />
+    <None Include="Resources\remider.jpg" />
+    <None Include="Resources\lrg-dubai-8544-1.jpg" />
+    <None Include="Resources\1024dubai.jpg" />
+    <None Include="Resources\img_home.jpg" />
+    <None Include="Resources\burj_dubai_edited.jpg" />
+    <None Include="Resources\dubai2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.Office.Interop.Excel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.Office.Interop.Outlook">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.Vbe.Interop">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="office">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

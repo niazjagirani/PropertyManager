@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Merec">
+</Property><Property Name="Solution File" Value="E:\Old Projects\PropertyManagerNew\MerecNew\Merec.sln">
+</Property><Property Name="User Options File" Value="E:\Old Projects\PropertyManagerNew\MerecNew\Merec.suo">
+</Property><Property Name="Date" Value="Monday, August 30, 2021">
+</Property><Property Name="Time" Value="12:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Merec.sln" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Merec.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Merec.suo" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Merec.suo">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Estabase.vbproj" Description="Project file successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Estabase.vbproj">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Estabase.vbproj.user" Description="Project user file successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Estabase.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="AdministratorPage.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\AdministratorPage.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="AdministratorPage.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\AdministratorPage.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="DesktopWork.cls" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\DesktopWork.cls">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ExtraFuntions.cls" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ExtraFuntions.cls">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MerecDataSet.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MerecDataSet.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MessageShow.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MessageShow.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MessageShow.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MessageShow.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Project.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Project.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Project.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Project.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="PublicVariables.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\PublicVariables.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerLand.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerLand.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerLand.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerLand.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerOther.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerOther.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerOther.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerOther.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerRent.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerRent.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerRent.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerRent.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Settings.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Settings.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapRent.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapRent.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapRent.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapRent.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapOther.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapOther.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapOther.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapOther.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapLand.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapLand.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapLand.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapLand.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ErrorDisp.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ErrorDisp.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ErrorDisp.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ErrorDisp.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Form1.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Form1.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Func.cls" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Func.cls">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LoginMerec.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LoginMerec.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LoginMerec.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LoginMerec.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MerecDataSet.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MerecDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="OverWriteMessage.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\OverWriteMessage.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="OverWriteMessage.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\OverWriteMessage.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ProgressData.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ProgressData.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ProgressData.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ProgressData.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="PropertyReminder.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\PropertyReminder.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="PropertyReminder.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\PropertyReminder.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerUnits.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerUnits.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerUnits.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerUnits.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Setup.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Setup.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Setup.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Setup.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMap.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMap.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMap.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMap.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="AttachFile.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\AttachFile.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="AttachFile.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\AttachFile.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LandDisplay.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LandDisplay.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LandDisplay.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LandDisplay.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LandToSell.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LandToSell.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LandToSell.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LandToSell.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="OthersToSell.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\OthersToSell.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="OthersToSell.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\OthersToSell.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="RentDisplay.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\RentDisplay.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="RentDisplay.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\RentDisplay.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Team.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Team.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Team.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Team.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsDisplay.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsDisplay.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsDisplay.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsDisplay.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsToRent.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsToRent.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsToRent.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsToRent.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsToSell.Designer.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsToSell.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsToSell.vb" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsToSell.vb">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="app.config" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MerecDataSet.xsc" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MerecDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MerecDataSet.xsd" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MerecDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MerecDataSet.xss" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MerecDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\Application.myapp" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\Settings.settings" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\mainImage.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\mainImage.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Merec_TemporaryKey.pfx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Merec_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\MEREC.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\MEREC.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Estabase_TemporaryKey.pfx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Estabase_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\about us_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\about us_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\about us_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\about us_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\about us_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\about us_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\background1_with-logo.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\background1_with-logo.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\view network properties_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\view network properties_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\users_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\users_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\units for sale_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\units for sale_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\setup_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\setup_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\property for rent_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\property for rent_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\project anagement_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\project anagement_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\other for sale_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\other for sale_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\manage my properties_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\manage my properties_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\login_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\login_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\lands for sale_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\lands for sale_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\help_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\help_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\edit delete project_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\edit delete project_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\Add new project_standard.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\Add new project_standard.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\view network properies_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\view network properies_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\users_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\users_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\units for sale_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\units for sale_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\setup_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\setup_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\property for rent_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\property for rent_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\project management_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\project management_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\other for sale_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\other for sale_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\manage my properties_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\manage my properties_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\login_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\login_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\lands for sale_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\lands for sale_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\help_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\help_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\edit delete project_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\edit delete project_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\add new project_rollover.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\add new project_rollover.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\users_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\users_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\units for sale_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\units for sale_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\setup_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\setup_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\property for rent_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\property for rent_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\project management_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\project management_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\other for sale_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\other for sale_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\manage my properties_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\manage my properties_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\login_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\login_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\lands for sale_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\lands for sale_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\help_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\help_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\edit delete project_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\edit delete project_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\add new project_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\add new project_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\view network properies_click.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\view network properies_click.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\background1.png" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\background1.png">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerWork.vb_old" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerWork.vb_old">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\rendering_max_3.0001.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\rendering_max_3.0001.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\remider.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\remider.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\lrg-dubai-8544-1.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\lrg-dubai-8544-1.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\1024dubai.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\1024dubai.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\img_home.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\img_home.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\burj_dubai_edited.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\burj_dubai_edited.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Resources\dubai2.jpg" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Resources\dubai2.jpg">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Icon.ico" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Icon.ico">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="AdministratorPage.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\AdministratorPage.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="AttachFile.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\AttachFile.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LandDisplay.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LandDisplay.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LandToSell.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LandToSell.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="OthersToSell.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\OthersToSell.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="MessageShow.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\MessageShow.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Project.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Project.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="RentDisplay.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\RentDisplay.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerLand.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerLand.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerOther.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerOther.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerRent.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerRent.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Team.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Team.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsDisplay.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsDisplay.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsToRent.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsToRent.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="UnitsToSell.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\UnitsToSell.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapRent.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapRent.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapOther.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapOther.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMapLand.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMapLand.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ErrorDisp.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ErrorDisp.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Form1.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="LoginMerec.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\LoginMerec.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\Resources.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="OverWriteMessage.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\OverWriteMessage.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ProgressData.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ProgressData.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="PropertyReminder.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\PropertyReminder.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="ServerUnits.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\ServerUnits.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Setup.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\Setup.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="WebMap.resx" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\WebMap.resx">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="My Project\app.manifest" Description="File successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="1" Project="Estabase" Source="Estabase.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Estabase.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Estabase" Source="Estabase.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="PropertyManager" Source="..\PropertyManager\PropertyManager.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="PropertyManager.vdproj" Source="..\PropertyManager\PropertyManager.vdproj" Description="Project file successfully backed up as E:\Old Projects\PropertyManagerNew\MerecNew\Backup\PropertyManager\PropertyManager.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Merec.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Merec.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Estabase.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Estabase" Source="Estabase.vbproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>
